@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mcentralizer", "WinFormsApp1\Mcentralizer.csproj", "{0B3A51FE-BA31-436F-A191-2CEDA62736B8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{22D0F8B9-EFA5-466C-9BFF-0ACE1C220175}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B3A51FE-BA31-436F-A191-2CEDA62736B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B3A51FE-BA31-436F-A191-2CEDA62736B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B3A51FE-BA31-436F-A191-2CEDA62736B8}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B3A51FE-BA31-436F-A191-2CEDA62736B8}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{22D0F8B9-EFA5-466C-9BFF-0ACE1C220175}.Debug|Any CPU.ActiveCfg = Debug
+		{22D0F8B9-EFA5-466C-9BFF-0ACE1C220175}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACBD59A7-37CC-41BE-992B-86F0A2E3D57C}
+	EndGlobalSection
+EndGlobal
