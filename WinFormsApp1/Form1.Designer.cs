@@ -118,10 +118,7 @@ namespace WinFormsApp1
             this.ShowInTaskbar = true;
            
         }
-
-
         private static ListView listView1=new ListView();
-        private ListViewItem listItems;
         private static ImageList imageList1=new ImageList();
     }
 }
