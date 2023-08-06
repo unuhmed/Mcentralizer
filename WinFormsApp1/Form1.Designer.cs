@@ -73,7 +73,6 @@ namespace WinFormsApp1
 
 
             }
-
             return listView1;
         }
 
